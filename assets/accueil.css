@@ -1,0 +1,84 @@
+
+.top a{
+    margin:5px;
+    margin-top: 25px;
+}
+
+.dropdown:hover .dropdown-menu
+{
+    display: block;
+}
+
+.btn-danger:hover{
+    background-color: #d9534f !important;
+    border-color: #d9534f !important;
+}
+
+.btn-danger:visited{
+    background-color: #d9534f !important;
+}
+
+.dropdown-menu a:hover{
+    background-color: #d9534f !important;
+}
+
+.footer-services a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-services{
+    list-style-type: none;
+}
+
+.footer{
+    margin-top: 11px;
+}
+
+.footer-services a:hover{
+    color: red;
+}
+
+.footer-logo{
+    padding-top: 71px;
+}
+
+.form-btn{
+    margin-top:10px;
+}
+
+.form-area{
+    width: 400px;
+    height: 200px !important;
+}
+
+.select_rech{
+    margin-bottom: 10px;
+}
+
+.reser_form{
+
+}
+
+.form-group{
+    padding-right: 10px;
+}
+
+/*body{
+    background-image: url('../images/reception/reception6.jpg');
+    background-attachment: fixed;
+}*/
+
+.recherche{
+    background-image: url('../images/reception/reception4.jpg');
+    background-attachment: fixed;
+}
+
+.footer{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.container a{
+    text-decoration: none;
+}
